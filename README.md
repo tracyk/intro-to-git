@@ -3,7 +3,9 @@
 ## Cake?
 
 ### Types of Cakes:
--chocolate
--strawberry
--vanilla
--and so many more
+- list item 1
+- list item 2
+
+[Docs] (http://http://daringfireball.net/projects/markdown/syntax#list)
+
+
