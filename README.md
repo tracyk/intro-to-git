@@ -5,7 +5,10 @@
 ### Types of Cakes:
 - list item 1
 - list item 2
-- strawberry
+- **strawberry**
+- *chocolate*
+- _orange_
+- __vanilla__
 
 [Docs] (http://http://daringfireball.net/projects/markdown/syntax#list)
 
