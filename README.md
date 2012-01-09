@@ -1,3 +1,9 @@
-Intro to Git
+# Intro to Git
 
-Cake?
+## Cake?
+
+### Types of Cakes:
+-chocolate
+-strawberry
+-vanilla
+-and so many more
